@@ -1,0 +1,2 @@
+# Dashboardbyabrar
+ An easy-to-use dashboard created with React and Redux, enabling users to effortlessly manage product inventory. It offers essential features such as adding, deleting, and editing products, as well as search, filters, and pagination, ensuring a smooth experience. Authentication integration and API integration are included. With a total of 22 pages, all functionalities work seamlessly.
